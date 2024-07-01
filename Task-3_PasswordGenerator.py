@@ -13,4 +13,4 @@ random.shuffle(password_list)
 for char in password_list:
     password += char
 
-print(f"Your password is: {password}")
+print(f"Your password is: {password} \n")
